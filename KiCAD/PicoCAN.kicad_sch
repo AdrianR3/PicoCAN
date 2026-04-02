@@ -11532,6 +11532,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 99.06 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
+			(at 99.06 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6834ad63-f5b9-4dbd-a00e-95cd8bd055e5")
 		)
@@ -11610,6 +11628,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C2994781"
+			(at 46.99 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 46.99 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a3b10ed2-9c91-4dd1-bb76-c7259868670e")
 		)
@@ -11643,7 +11679,7 @@
 				)
 			)
 		)
-		(property "Value" "27"
+		(property "Value" "27R"
 			(at 140.97 58.42 90)
 			(effects
 				(font
@@ -11651,7 +11687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 140.97 56.642 90)
 			(effects
 				(font
@@ -11671,6 +11707,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 140.97 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 140.97 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25100"
+			(at 140.97 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11699,7 +11753,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "137702da-b031-49ec-9d13-b98182149fc1")
@@ -11738,6 +11792,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 259.08 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 259.08 44.45 0)
 			(effects
 				(font
@@ -11928,6 +11991,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 113.03 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 113.03 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
 			(at 113.03 24.13 0)
 			(effects
 				(font
@@ -12138,6 +12219,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C481365"
+			(at 107.95 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 107.95 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "28"
 			(uuid "4c075da1-5d69-46cc-b088-e1c5a314d2f0")
 		)
@@ -12256,7 +12355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 36.83 168.148 90)
 			(effects
 				(font
@@ -12276,6 +12375,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 36.83 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25117"
+			(at 36.83 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 36.83 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12350,6 +12467,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C13738"
+			(at 247.65 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 247.65 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "061d3341-2468-4686-949a-4978b33b624d")
 		)
@@ -12398,7 +12533,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 73.66 93.218 90)
 			(effects
 				(font
@@ -12418,6 +12553,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 73.66 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25744"
+			(at 73.66 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "Basic: C25744, Extended: C176114"
+			(at 73.66 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12495,6 +12648,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 29.21 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
+			(at 29.21 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "153efc61-5573-480d-9501-fd032677c152")
 		)
@@ -12535,7 +12706,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 262.89 137.668 90)
 			(effects
 				(font
@@ -12555,6 +12726,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 262.89 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C11702"
+			(at 262.89 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 262.89 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12622,6 +12811,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 262.89 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "10 pF: C32949"
+			(at 262.89 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1578"
+			(at 262.89 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12781,7 +12988,7 @@
 		(at 85.09 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "396ff76e-469a-4859-baab-6c4035b8b8cf")
@@ -12822,6 +13029,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 85.09 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 85.09 45.72 0)
 			(effects
 				(font
@@ -12889,6 +13105,24 @@
 			)
 		)
 		(property "Description" "A microcontroller by Raspberry Pi"
+			(at 171.45 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 171.45 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C2040"
 			(at 171.45 86.36 0)
 			(effects
 				(font
@@ -13263,6 +13497,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 109.22 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C96446"
+			(at 109.22 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb8773aa-190e-4aa3-88b7-e4700d1917a8")
 		)
@@ -13363,7 +13615,7 @@
 				)
 			)
 		)
-		(property "Value" "C19171390"
+		(property "Value" "C2286"
 			(at 48.5775 162.56 0)
 			(effects
 				(font
@@ -13399,6 +13651,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 46.99 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C2286"
+			(at 46.99 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 46.99 166.37 0)
 			(effects
 				(font
@@ -13475,6 +13745,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C720477"
+			(at 64.77 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 64.77 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "850a57ad-684d-40b7-bb1e-b176ebbf3a4c")
 		)
@@ -13516,7 +13804,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 86.36 155.448 90)
 			(effects
 				(font
@@ -13536,6 +13824,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 86.36 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25744"
+			(at 86.36 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 86.36 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13678,6 +13984,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" "Look at P25Q32L-UXH-IR later"
+			(at 102.87 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C2843335"
+			(at 102.87 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "4c4b2302-f875-44a3-a9e1-b2ed60e741d4")
 		)
@@ -13759,6 +14083,24 @@
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 254 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C3817776"
+			(at 254 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "Look at C3818779"
+			(at 254 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13896,6 +14238,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 85.09 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 85.09 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
 			(at 85.09 24.13 0)
 			(effects
 				(font
@@ -14301,6 +14661,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 71.12 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
+			(at 71.12 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4a2d91b-ef47-434c-8b40-6066846513d6")
 		)
@@ -14371,6 +14749,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 140.97 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
+			(at 140.97 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb972d8b-396e-4248-b48e-b185c8df1dc0")
 		)
@@ -14391,7 +14787,7 @@
 		(at 255.27 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14433,6 +14829,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 255.27 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 255.27 110.49 0)
 			(effects
 				(font
@@ -14594,7 +14999,7 @@
 		(at 237.49 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7f04316c-232c-4a4f-8935-8942da73afd5")
@@ -14635,6 +15040,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 237.49 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 237.49 44.45 0)
 			(effects
 				(font
@@ -14833,6 +15247,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 127 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
+			(at 127 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "baf6f844-d833-486c-a5a8-b42ba23bcce3")
 		)
@@ -14966,6 +15398,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 109.22 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
+			(at 109.22 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b9df9021-bcd5-4f7b-9967-1c45c2ca6cb1")
 		)
@@ -15026,6 +15476,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 262.89 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "10 pF: C32949"
+			(at 262.89 158.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1578"
+			(at 262.89 158.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15235,6 +15703,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 17.78 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C52923"
+			(at 17.78 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae57cb09-5686-4258-9674-f857217d1489")
 		)
@@ -15370,6 +15856,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 85.09 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C96446"
+			(at 85.09 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb8773aa-190e-4aa3-88b7-e4700d1917a9")
 		)
@@ -15476,7 +15980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 36.83 183.388 90)
 			(effects
 				(font
@@ -15496,6 +16000,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 36.83 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25076"
+			(at 36.83 181.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 36.83 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15570,6 +16092,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 233.68 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1562"
+			(at 233.68 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "69127f2d-d421-4e33-888b-0c092c44eb4e")
 		)
@@ -15602,7 +16142,7 @@
 				)
 			)
 		)
-		(property "Value" "27"
+		(property "Value" "27R"
 			(at 140.97 55.88 90)
 			(effects
 				(font
@@ -15610,7 +16150,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 140.97 57.658 90)
 			(effects
 				(font
@@ -15630,6 +16170,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 140.97 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 140.97 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25100"
+			(at 140.97 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15706,6 +16264,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C223608"
+			(at 58.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 58.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "84c30e51-d1f8-45b3-b057-40563f77488c")
 		)
@@ -15746,7 +16322,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 49.53 61.468 90)
 			(effects
 				(font
@@ -15766,6 +16342,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 49.53 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25905"
+			(at 49.53 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 49.53 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16238,6 +16832,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C223608"
+			(at 67.31 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 67.31 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e4b3fb73-53eb-476b-93c5-58ec55597c70")
 		)
@@ -16503,6 +17115,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C165948"
+			(at 29.21 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 29.21 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "S1"
 			(uuid "e9a0e4e7-312d-436e-9123-52103a5bef9d")
 		)
@@ -16604,6 +17234,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 154.94 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 154.94 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
 			(at 154.94 24.13 0)
 			(effects
 				(font
@@ -16849,7 +17497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 242.57 108.712 90)
 			(effects
 				(font
@@ -16869,6 +17517,23 @@
 		)
 		(property "Description" "Resistor"
 			(at 242.57 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25079"
+			(at 242.57 110.49 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 242.57 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16936,6 +17601,24 @@
 		)
 		(property "Description" "Four pin crystal, GND on pins 2 and 4"
 			(at 247.65 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C9002"
+			(at 247.65 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 247.65 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17083,6 +17766,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C39051"
+			(at 99.06 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 99.06 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "661ab223-b964-46da-89eb-6fb32f93242d")
 		)
@@ -17154,6 +17855,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 233.68 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1562"
+			(at 233.68 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3899604d-f615-4b06-86c5-12fe1169bde6")
 		)
@@ -17174,7 +17893,7 @@
 		(at 224.79 85.09 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "d3f6119b-ebb6-4ad3-8888-a85eb772a007")
@@ -17216,6 +17935,15 @@
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 224.79 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 224.79 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17359,6 +18087,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 207.01 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
+			(at 207.01 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e3d92eab-4568-4858-90d9-292f78771ec0")
 		)
@@ -17421,6 +18167,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 59.69 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 59.69 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C52923"
 			(at 59.69 24.13 0)
 			(effects
 				(font
@@ -17499,6 +18263,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 184.15 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
+			(at 184.15 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e3d92eab-4568-4858-90d9-292f78771ec1")
 		)
@@ -17539,7 +18321,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 49.53 58.928 90)
 			(effects
 				(font
@@ -17559,6 +18341,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 49.53 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25905"
+			(at 49.53 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 49.53 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17694,6 +18494,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 43.18 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 43.18 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
 			(at 43.18 24.13 0)
 			(effects
 				(font
@@ -17903,6 +18721,24 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 195.58 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
+			(at 195.58 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e3d92eab-4568-4858-90d9-292f78771ec2")
 		)
@@ -17946,7 +18782,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.802 140.97 90)
 			(effects
 				(font
@@ -17965,6 +18801,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 68.58 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25744"
+			(at 68.58 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 68.58 140.97 0)
 			(effects
 				(font
@@ -18080,7 +18934,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 79.502 86.36 90)
 			(effects
 				(font
@@ -18099,6 +18953,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 81.28 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C11702"
+			(at 81.28 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 81.28 86.36 0)
 			(effects
 				(font
@@ -18168,6 +19040,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 168.91 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 168.91 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
 			(at 168.91 24.13 0)
 			(effects
 				(font

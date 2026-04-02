@@ -1,8 +1,6 @@
 # PicoCAN
 PicoCAN is a custom devboard based on the RP2040 that features a built-in CAN controller and transceiver (the `MCP25625` to be exact).
 
-Images Here
-
 ## Key Features
 - USB-C connection for easy programming
 - RP2040 based, with the same size as the Pi Pico
@@ -20,3 +18,8 @@ To interface with the CAN bus, you can use any library that supports the MCP2562
 
 ## Building the PicoCAN
 The PicoCAN can be ordered from sites like JLCPCB (and optionally assembled too). The KiCAD source files are in `./KiCAD` and the production gerber files are in `./KiCAD/prod` along with the bom.
+
+## Images
+
+![backside-pinout](./assets/backside-pinout.png)
+![kicad-render](./assets/kicad-render.png)

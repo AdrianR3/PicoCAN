@@ -14,5 +14,9 @@ Images Here
   - The red LED also shares pin `24` on the board
   - The green LED is not connected to any of the PicoCAN's pins
 
+## Using the CAN bus
+
+To interface with the CAN bus, you can use any library that supports the MCP25625. There are a few examples that use the [MCP_CAN](https://github.com/coryjfowler/MCP_CAN_lib) library in the `./firmware_examples` folder; they are adapted from https://github.com/coryjfowler/MCP_CAN_lib.
+
 ## Building the PicoCAN
 The PicoCAN can be ordered from sites like JLCPCB (and optionally assembled too). The KiCAD source files are in `./KiCAD` and the production gerber files are in `./KiCAD/prod` along with the bom.

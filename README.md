@@ -1,6 +1,8 @@
 # PicoCAN
 PicoCAN is a custom devboard based on the RP2040 that features a built-in CAN controller and transceiver (the `MCP25625` to be exact).
 
+<img src="./assets/PicoCAN-cover-light.png" alt="PicoCAN Cover Image" height="500">
+
 ## Key Features
 - USB-C connection for easy programming
 - RP2040 based, with the same size as the Pi Pico

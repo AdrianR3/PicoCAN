@@ -25,6 +25,10 @@ The PicoCAN can be ordered from sites like JLCPCB (and optionally assembled too)
 
 <img src="./assets/backside-pinout.png" alt="Backside Pinout" height="500"> <img src="./assets/kicad-render.png" alt="KiCad Render" height="500">
 
+
+## Schematic
+<img src="./assets/PicoCAN-schematic.png" alt="PicoCAN Schematic" height="500">
+
 ## BOM
 
 | Name                                                                           | Purpose                                                                  | Quantity | Total Cost (USD) | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Distributor |

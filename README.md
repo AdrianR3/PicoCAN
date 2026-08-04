@@ -21,6 +21,10 @@ To interface with the CAN bus, you can use any library that supports the MCP2562
 ## Building the PicoCAN
 The PicoCAN can be ordered from sites like JLCPCB (and optionally assembled too). The KiCAD source files are in `./KiCAD` and the production gerber files are in `./KiCAD/prod` along with the bom.
 
+This is what JLC PCBA gets you! These don't have the headers soldered on yet.
+
+<img src="./assets/PicoCAN-mfg-top.png" alt="Manufactured PicoCAN (Top Side)" height="500"> <img src="./assets/PicoCAN-mfg-bottom.png" alt="Manufactured PicoCAN (Bottom Side)" height="500">
+
 ## Images
 
 <img src="./assets/backside-pinout.png" alt="Backside Pinout" height="500"> <img src="./assets/kicad-render.png" alt="KiCad Render" height="500">

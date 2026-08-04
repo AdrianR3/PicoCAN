@@ -1,6 +1,9 @@
 # Adapted from:
 # https://github.com/github/gitignore/blob/main/KiCad.gitignore
 
+PicoCAN-*.zip
+v*.zip
+
 # Temporary files
 *.000
 *.bak

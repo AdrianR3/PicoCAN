@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "QFN_MCP25625") (type "KiCad") (uri "~/Documents/KiCad/9.0/3rdparty/symbols/MCP25625") (options "") (descr ""))
+)

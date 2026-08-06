@@ -13354,7 +13354,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 73.66 91.44 90)
+		(at 81.28 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13364,7 +13364,7 @@
 		(dnp no)
 		(uuid "262c6ca4-7294-4904-b666-ce253c7236de")
 		(property "Reference" "R6"
-			(at 72.39 88.9 90)
+			(at 82.55 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13375,7 +13375,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 77.47 88.9 90)
+			(at 82.55 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13386,7 +13386,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 73.66 93.218 90)
+			(at 79.502 86.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13397,7 +13397,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 91.44 0)
+			(at 81.28 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13408,7 +13408,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 73.66 91.44 0)
+			(at 81.28 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13419,7 +13419,7 @@
 			)
 		)
 		(property "MPN" "C25744"
-			(at 73.66 91.44 90)
+			(at 81.28 86.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13430,7 +13430,7 @@
 			)
 		)
 		(property "Notes" "Basic: C25744, Extended: C176114"
-			(at 73.66 91.44 90)
+			(at 81.28 86.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20888,7 +20888,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 81.28 86.36 0)
+		(at 73.66 91.44 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20898,7 +20898,7 @@
 		(dnp no)
 		(uuid "f4a9c74b-2526-4eb1-907f-1851981c6bb5")
 		(property "Reference" "R7"
-			(at 82.55 85.09 0)
+			(at 74.93 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20909,7 +20909,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 82.55 87.63 0)
+			(at 74.93 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20920,7 +20920,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 79.502 86.36 90)
+			(at 73.66 93.218 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20931,7 +20931,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 86.36 0)
+			(at 73.66 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20942,7 +20942,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 81.28 86.36 0)
+			(at 73.66 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20953,7 +20953,7 @@
 			)
 		)
 		(property "MPN" "C11702"
-			(at 81.28 86.36 0)
+			(at 73.66 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20964,7 +20964,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 81.28 86.36 0)
+			(at 73.66 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
